@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Stephenhuynh2330
-- 👀 I’m interested in Basketball
-- 🌱 I’m currently learning analyst
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me through this git
+- 🌱 I’m currently learning code
+
 
 <!---
 Stephenhuynh2330/Stephenhuynh2330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
